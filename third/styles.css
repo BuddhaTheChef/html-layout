@@ -1,0 +1,54 @@
+body{
+  margin:0;
+}
+.one{
+ height:16vh;
+ width: 100%;
+ background-color: #D8D8D8;
+ box-sizing:border-box;
+ padding: 20px;
+}
+
+.two{
+  height:25vh;
+  width: 100%;
+  background-color: white;
+}
+
+.three{
+  height:16vh;
+  width: 100%;
+  background-color: #4A90E2;
+}
+
+.four{
+  height:16vh;
+  width: 100%;
+  background-color: #50E3C2;
+}
+
+.five{
+  height:16vh;
+  width: 100%;
+  background-color: #B8E986;
+}
+
+.six{
+  height:16vh;
+  width: 100%;
+  background-color: #F8E71C;
+}
+
+.smallOne{
+  margin-left: 20px;
+  width: 100px;
+  height: 100px;
+  background-color:#4A90E2;
+}
+p{
+  font-family:sans-serif;
+  font-size: 23px;
+  padding-top: 25px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
